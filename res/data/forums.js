@@ -571,6 +571,14 @@ const db_forums_ex = [
         reference: []
     },
     {
+        title: "MCBBS 活着",
+        url: "https://mcbbs.life/",
+        archiveUrl: "https://web.archive.org/web/20240301071710/https://mcbbs.life/",
+        updatedAt: "2024/03/10",
+        note: "散文，MCBBS · 活着",
+        reference: []
+    },
+    {
         title: "Minecraft中文综合交流站",
         url: "http://mcforum.wikidot.com/",
         updatedAt: "2024/03/06",
